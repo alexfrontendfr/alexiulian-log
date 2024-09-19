@@ -13,13 +13,13 @@ const CONFIG = {
   projects: [
     {
       name: `alexiulian-log`,
-      href: "https://github.com/alexfrontendfr/alexiu-log",
+      href: "https://github.com/alexfrontendfr/alexiulian-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "alexiu-log",
-    description: "welcome to alexiu-log!",
+    title: "alexiulian-log",
+    description: "welcome to alexiulian-log!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
